@@ -1,4 +1,5 @@
 # Shadowsocks 購買和使用教程
+来源：https://github.com/Shadowsocks-Wiki/shadowsocks
 
 ## 1 購買 Shadowsocks 賬號
 

@@ -3,7 +3,7 @@
 ## 1 購買 Shadowsocks 賬號
 
 [購買流程以及查看賬號信息](https://github.com/Shadowsocks-Wiki/shadowsocks/blob/master/1-buy-shadowsocks.md)
-### 1.1 或者自己搭一个
+> ### 1.1 或者自己搭一个
 [【新手向】【梯子/代理】Vultr的购买+SSR+锐速+多端口的配置](http://www.aloneray.com/54.html)
 
 ## 2 Windows 使用 Shadowsocks 設置教程

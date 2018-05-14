@@ -12,4 +12,6 @@
 > [Shadowsocks 購買和使用教程](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/Shadowsocks%20%E8%B3%BC%E8%B2%B7%E5%92%8C%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)  
 > [两系统间时间差8h](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/%E4%B8%A4%E7%B3%BB%E7%BB%9F%E9%97%B4%E6%97%B6%E9%97%B4%E5%B7%AE8h.md)  
 > [安装双系统后找不到win10](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/%E5%AE%89%E8%A3%85%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%90%8E%E6%89%BE%E4%B8%8D%E5%88%B0win10.md)  
+### git
+> [git之https或http方式设置记住用户名和密码的方法](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/git_https%E8%AE%B0%E4%BD%8F%E7%94%A8%E6%88%B7%E5%90%8D%E5%92%8C%E5%AF%86%E7%A0%81.md)  
 

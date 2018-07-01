@@ -9,7 +9,7 @@
 > [更改文件权限](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/%E6%9B%B4%E6%94%B9%E6%96%87%E4%BB%B6%E6%9D%83%E9%99%90.md)  
 > [挂载光盘](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/%E6%8C%82%E8%BD%BD%E5%85%89%E7%9B%98.md)  
 ### 杂项
-> [Shadowsocks 購買和使用教程](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/Shadowsocks%20%E8%B3%BC%E8%B2%B7%E5%92%8C%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)  
+> [Shadowsocks 購買和使用教程](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/Shadowsocks%20%E8%B3%BC%E8%B2%B7%E5%92%8C%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)  
 > [两系统间时间差8h](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/%E4%B8%A4%E7%B3%BB%E7%BB%9F%E9%97%B4%E6%97%B6%E9%97%B4%E5%B7%AE8h.md)  
 > [安装双系统后找不到win10](https://github.com/Laurence-042/Linux-Ubuntu-using/blob/master/%E5%AE%89%E8%A3%85%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%90%8E%E6%89%BE%E4%B8%8D%E5%88%B0win10.md)  
 ### git
